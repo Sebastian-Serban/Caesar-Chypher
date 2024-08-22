@@ -1,5 +1,5 @@
 # Caesar-Chypher
-Caesar Chypher implementation in Python
+Caesar Chypher in Python
 
 # Instructions
 
