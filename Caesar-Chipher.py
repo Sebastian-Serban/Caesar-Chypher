@@ -1,4 +1,3 @@
-
 def rotateOneLeft(list):
     length = len(list)
     temp = list[0]
